@@ -55,6 +55,7 @@
     "xe-utils": "^3.5.11"
   },
   "peerDependencies": {
+    "element-plus": "^2.3.12",
     "vxe-table": "^4.2.0"
   },
   "repository": {
