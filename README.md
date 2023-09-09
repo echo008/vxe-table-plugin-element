@@ -1,8 +1,8 @@
-# vxe-table-plugin-element
+# vxe-table-plugin-element-plus
 
-[![gitee star](https://gitee.com/x-extends/vxe-table-plugin-element/badge/star.svg?theme=dark)](https://gitee.com/x-extends/vxe-table-plugin-element/stargazers)
-[![npm version](https://img.shields.io/npm/v/vxe-table-plugin-element.svg?style=flat-square)](https://www.npmjs.com/package/vxe-table-plugin-element)
-[![npm downloads](https://img.shields.io/npm/dm/vxe-table-plugin-element.svg?style=flat-square)](http://npm-stat.com/charts.html?package=vxe-table-plugin-element)
+[![gitee star](https://gitee.com/echo008/vxe-table-plugin-element-plus/badge/star.svg?theme=dark)](https://gitee.com/echo008/vxe-table-plugin-element-plus/stargazers)
+[![npm version](https://img.shields.io/npm/v/vxe-table-plugin-element-plus.svg?style=flat-square)](https://www.npmjs.com/package/vxe-table-plugin-element-plus)
+[![npm downloads](https://img.shields.io/npm/dm/vxe-table-plugin-element-plus.svg?style=flat-square)](http://npm-stat.com/charts.html?package=vxe-table-plugin-element-plus)
 [![npm license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 基于 [vxe-table](https://www.npmjs.com/package/vxe-table) 表格的适配插件，用于兼容 [element-plus](https://github.com/element-plus/element-plus) 组件库
@@ -14,14 +14,14 @@
 ## Installing
 
 ```shell
-npm install xe-utils vxe-table@next vxe-table-plugin-element@next element-plus
+npm install xe-utils vxe-table@next vxe-table-plugin-element-plus element-plus
 ```
 
 ```javascript
 // ...
 import VXETable from 'vxe-table'
-import VXETablePluginElement from 'vxe-table-plugin-element'
-import 'vxe-table-plugin-element/dist/style.css'
+import VXETablePluginElement from 'vxe-table-plugin-element-plus'
+import 'vxe-table-plugin-element-plus/dist/style.css'
 // ...
 
 // or namespace
@@ -161,4 +161,4 @@ export default defineComponent({
 
 ## License
 
-[MIT](LICENSE) © 2019-present, Xu Liangzhan
+[MIT](LICENSE) © 2019-present, echo008

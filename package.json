@@ -1,6 +1,6 @@
 {
-  "name": "vxe-table-plugin-element",
-  "version": "3.0.8",
+  "name": "vxe-table-plugin-element-plus",
+  "version": "1.0.0",
   "description": "基于 vxe-table 表格的适配插件，用于兼容 element-plus 组件库",
   "scripts": {
     "lib": "gulp build"
@@ -60,19 +60,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/x-extends/vxe-table-plugin-element.git"
+    "url": "git+https://github.com/echo008/vxe-table-plugin-element-plus.git"
   },
   "keywords": [
     "vxe-table",
     "vxe-table plugins"
   ],
   "author": {
-    "name": "Xu Liangzhan",
-    "email": "xu_liangzhan@163.com"
+    "name": "echo008",
+    "email": "1067054231@qq.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/x-extends/vxe-table-plugin-element/issues"
+    "url": "https://github.com/echo008/vxe-table-plugin-element-plus/issues"
   },
-  "homepage": "https://github.com/x-extends/vxe-table-plugin-element#readme"
+  "homepage": "https://github.com/echo008/vxe-table-plugin-element-plus#readme"
 }
