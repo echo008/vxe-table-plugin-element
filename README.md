@@ -1,6 +1,5 @@
 # vxe-table-plugin-element-plus
 
-[![gitee star](https://gitee.com/echo008/vxe-table-plugin-element-plus/badge/star.svg?theme=dark)](https://gitee.com/echo008/vxe-table-plugin-element-plus/stargazers)
 [![npm version](https://img.shields.io/npm/v/vxe-table-plugin-element-plus.svg?style=flat-square)](https://www.npmjs.com/package/vxe-table-plugin-element-plus)
 [![npm downloads](https://img.shields.io/npm/dm/vxe-table-plugin-element-plus.svg?style=flat-square)](http://npm-stat.com/charts.html?package=vxe-table-plugin-element-plus)
 [![npm license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)

@@ -2,7 +2,9 @@ import { h, resolveComponent, ComponentOptions } from 'vue'
 import XEUtils from 'xe-utils'
 import { VXETableCore, VxeTableDefines, VxeColumnPropTypes, VxeGlobalRendererHandles, VxeGlobalInterceptorHandles, FormItemRenderOptions, FormItemContentRenderParams } from 'vxe-table'
 import dayjs from 'dayjs'
-import type { ConfigProviderContext } from 'element-plus'
+interface ConfigProviderContext {
+  namespace?: string
+}
 
 let vxetable: VXETableCore
 

@@ -1,8 +1,9 @@
 {
   "name": "vxe-table-plugin-element-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于 vxe-table 表格的适配插件，用于兼容 element-plus 组件库",
   "scripts": {
+    "build": "gulp build",
     "lib": "gulp build"
   },
   "files": [
@@ -18,6 +19,7 @@
   "typings": "index.ts",
   "devDependencies": {
     "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-modules-umd": "^7.22.5",
     "@babel/plugin-transform-runtime": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
     "@babel/runtime": "^7.12.5",
